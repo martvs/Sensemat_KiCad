@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SenseMat_Philips") (type "KiCad") (uri "/Users/martvansteijn/Documents/KiCad/Downloaded_KiCad_libraries/SenseMat_Philips.pretty") (options "") (descr ""))
+)
